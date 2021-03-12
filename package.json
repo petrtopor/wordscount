@@ -1,0 +1,15 @@
+{
+  "name": "tsttask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wordsfilter.js",
+  "scripts": {
+    "run": "node wordsfilter.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
